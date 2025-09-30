@@ -1,0 +1,11 @@
+C:\Users\vlad\Desktop\Restaurant\Restaurant.Common\bin\Debug\net9.0\Restaurant.Common.deps.json
+C:\Users\vlad\Desktop\Restaurant\Restaurant.Common\bin\Debug\net9.0\Restaurant.Common.dll
+C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\bin\Debug\net9.0\Restaurant.Common.pdb
+C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\Restaurant.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\Restaurant.Common.AssemblyInfoInputs.cache
+C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\Restaurant.Common.AssemblyInfo.cs
+C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\Restaurant.Common.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\Restaurant.Common.dll
+C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\refint\Restaurant.Common.dll
+C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\Restaurant.Common.pdb
+C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\ref\Restaurant.Common.dll
