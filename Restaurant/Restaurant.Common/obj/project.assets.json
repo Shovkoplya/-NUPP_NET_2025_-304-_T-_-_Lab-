@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\usern\\.nuget\\packages\\": {}
+    "/home/fant/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usern\\OneDrive\\Desktop\\Restaurant\\Restaurant.Common\\Restaurant.Common.csproj",
+      "projectUniqueName": "/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/Restaurant.Common.csproj",
       "projectName": "Restaurant.Common",
-      "projectPath": "C:\\Users\\usern\\OneDrive\\Desktop\\Restaurant\\Restaurant.Common\\Restaurant.Common.csproj",
-      "packagesPath": "C:\\Users\\usern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usern\\OneDrive\\Desktop\\Restaurant\\Restaurant.Common\\obj\\",
+      "projectPath": "/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/Restaurant.Common.csproj",
+      "packagesPath": "/home/fant/.nuget/packages/",
+      "outputPath": "/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\usern\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/fant/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -44,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

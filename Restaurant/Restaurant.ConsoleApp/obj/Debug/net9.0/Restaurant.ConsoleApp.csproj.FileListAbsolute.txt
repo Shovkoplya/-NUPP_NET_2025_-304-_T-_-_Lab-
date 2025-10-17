@@ -1,18 +1,54 @@
-C:\Users\vlad\Desktop\Restaurant\Restaurant.ConsoleApp\bin\Debug\net9.0\Restaurant.ConsoleApp.exe
-C:\Users\vlad\Desktop\Restaurant\Restaurant.ConsoleApp\bin\Debug\net9.0\Restaurant.ConsoleApp.deps.json
-C:\Users\vlad\Desktop\Restaurant\Restaurant.ConsoleApp\bin\Debug\net9.0\Restaurant.ConsoleApp.runtimeconfig.json
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\bin\Debug\net9.0\Restaurant.ConsoleApp.dll
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\bin\Debug\net9.0\Restaurant.ConsoleApp.pdb
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\bin\Debug\net9.0\Restaurant.Common.dll
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\bin\Debug\net9.0\Restaurant.Common.pdb
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\obj\Debug\net9.0\Restaurant.ConsoleApp.csproj.AssemblyReference.cache
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\obj\Debug\net9.0\Restaurant.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\obj\Debug\net9.0\Restaurant.ConsoleApp.AssemblyInfoInputs.cache
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\obj\Debug\net9.0\Restaurant.ConsoleApp.AssemblyInfo.cs
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\obj\Debug\net9.0\Restaurant.ConsoleApp.csproj.CoreCompileInputs.cache
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\obj\Debug\net9.0\Restaura.0640893A.Up2Date
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\obj\Debug\net9.0\Restaurant.ConsoleApp.dll
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\obj\Debug\net9.0\refint\Restaurant.ConsoleApp.dll
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\obj\Debug\net9.0\Restaurant.ConsoleApp.pdb
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\obj\Debug\net9.0\Restaurant.ConsoleApp.genruntimeconfig.cache
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.ConsoleApp\obj\Debug\net9.0\ref\Restaurant.ConsoleApp.dll
+C:/Users/vlad/Desktop/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp.exe
+C:/Users/vlad/Desktop/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp.deps.json
+C:/Users/vlad/Desktop/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp.runtimeconfig.json
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp.dll
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp.pdb
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.Common.dll
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.Common.pdb
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.csproj.AssemblyReference.cache
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.AssemblyInfoInputs.cache
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.AssemblyInfo.cs
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.csproj.CoreCompileInputs.cache
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaura.0640893A.Up2Date
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.dll
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/refint/Restaurant.ConsoleApp.dll
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.pdb
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.genruntimeconfig.cache
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/ref/Restaurant.ConsoleApp.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp.deps.json
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp.runtimeconfig.json
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp.pdb
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.Common.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.Common.pdb
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.csproj.AssemblyReference.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.AssemblyInfoInputs.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.AssemblyInfo.cs
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.csproj.CoreCompileInputs.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaura.0640893A.Up2Date
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/refint/Restaurant.ConsoleApp.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.pdb
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.genruntimeconfig.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/ref/Restaurant.ConsoleApp.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp.deps.json
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp.runtimeconfig.json
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.ConsoleApp.pdb
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.Common.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/bin/Debug/net9.0/Restaurant.Common.pdb
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.csproj.AssemblyReference.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.AssemblyInfoInputs.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.AssemblyInfo.cs
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.csproj.CoreCompileInputs.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaura.0640893A.Up2Date
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/refint/Restaurant.ConsoleApp.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.pdb
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/Restaurant.ConsoleApp.genruntimeconfig.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.ConsoleApp/obj/Debug/net9.0/ref/Restaurant.ConsoleApp.dll

@@ -1,11 +1,33 @@
-C:\Users\vlad\Desktop\Restaurant\Restaurant.Common\bin\Debug\net9.0\Restaurant.Common.deps.json
-C:\Users\vlad\Desktop\Restaurant\Restaurant.Common\bin\Debug\net9.0\Restaurant.Common.dll
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\bin\Debug\net9.0\Restaurant.Common.pdb
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\Restaurant.Common.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\Restaurant.Common.AssemblyInfoInputs.cache
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\Restaurant.Common.AssemblyInfo.cs
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\Restaurant.Common.csproj.CoreCompileInputs.cache
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\Restaurant.Common.dll
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\refint\Restaurant.Common.dll
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\Restaurant.Common.pdb
-C:\Users\vlad\Desktop\Desktop\Restaurant\Restaurant.Common\obj\Debug\net9.0\ref\Restaurant.Common.dll
+C:/Users/vlad/Desktop/Restaurant/Restaurant.Common/bin/Debug/net9.0/Restaurant.Common.deps.json
+C:/Users/vlad/Desktop/Restaurant/Restaurant.Common/bin/Debug/net9.0/Restaurant.Common.dll
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.Common/bin/Debug/net9.0/Restaurant.Common.pdb
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.AssemblyInfoInputs.cache
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.AssemblyInfo.cs
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.csproj.CoreCompileInputs.cache
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.dll
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.Common/obj/Debug/net9.0/refint/Restaurant.Common.dll
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.pdb
+C:/Users/vlad/Desktop/Desktop/Restaurant/Restaurant.Common/obj/Debug/net9.0/ref/Restaurant.Common.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.Common/bin/Debug/net9.0/Restaurant.Common.deps.json
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.Common/bin/Debug/net9.0/Restaurant.Common.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.Common/bin/Debug/net9.0/Restaurant.Common.pdb
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.AssemblyInfoInputs.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.AssemblyInfo.cs
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.csproj.CoreCompileInputs.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.Common/obj/Debug/net9.0/refint/Restaurant.Common.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.pdb
+/home/fant/VsCode/dotnet_labs/vlad/lab 1/Restaurant/Restaurant.Common/obj/Debug/net9.0/ref/Restaurant.Common.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/bin/Debug/net9.0/Restaurant.Common.deps.json
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/bin/Debug/net9.0/Restaurant.Common.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/bin/Debug/net9.0/Restaurant.Common.pdb
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.AssemblyInfoInputs.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.AssemblyInfo.cs
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.csproj.CoreCompileInputs.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/obj/Debug/net9.0/refint/Restaurant.Common.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/obj/Debug/net9.0/Restaurant.Common.pdb
+/home/fant/VsCode/dotnet_labs/vlad/lab_2/Restaurant/Restaurant.Common/obj/Debug/net9.0/ref/Restaurant.Common.dll

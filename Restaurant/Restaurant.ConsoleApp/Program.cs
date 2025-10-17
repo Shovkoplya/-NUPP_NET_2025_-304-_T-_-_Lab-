@@ -1,47 +1,54 @@
 ﻿using System;
+using System.Linq;
+using System.Reflection;
+using System.Threading.Tasks;
 using Restaurant.Common;
 
 class Program
 {
-    static void Main(string[] args)
+    static async Task Main(string[] args)
     {
-        // створюємо CRUD сервіс для Salad
-        var saladService = new CrudService<Salad>();
+        // Задаємо шлях для збереження
+        var filePath = "data/dishes_async.json";
 
-        var salad1 = new Salad("Грецький", 120, true, 200, "Оливкова олія");
-        var salad2 = new Salad("Цезар", 150, false, 350, "Майонез");
+        // створюємо асинхронний CRUD сервіс для Dish
+        var dishService = new CrudServiceAsync<Dish>(filePath);
 
-        // Create
-        saladService.Create(salad1);
-        saladService.Create(salad2);
+        // Паралельно створюємо 1000 об'єктів через Parallell helper
+        var created = await Parallell.CreateManyAsync(dishService, 1000, () => Dish.CreateNew());
 
-        Console.WriteLine("Після створення:");
-        foreach (var s in saladService.ReadAll())
+        Console.WriteLine($"Створено елементів: {created}");
+
+        // Отримаємо всі елементи для аналізу
+        var all = (await dishService.ReadAllAsync()).ToList();
+
+        // Аналіз чисельних властивостей через рефлексію
+        var numericProps = typeof(Dish).GetProperties(BindingFlags.Public | BindingFlags.Instance)
+            .Where(p => IsNumericType(p.PropertyType)).ToList();
+
+        foreach (var prop in numericProps)
         {
-            Console.WriteLine(s.GetInfo());
+            var values = all.Select(o => Convert.ToDouble(prop.GetValue(o) ?? 0)).ToList();
+            if (values.Count == 0) continue;
+            var min = values.Min();
+            var max = values.Max();
+            var avg = values.Average();
+            Console.WriteLine($"{prop.Name}: min={min}, max={max}, avg={avg:F2}");
         }
 
-        // Read
-        var readSalad = saladService.Read(salad1.Id);
-        Console.WriteLine($"\nЗнайдено по Id: {readSalad?.GetInfo()}");
+        // Зберігаємо колекцію у файл
+        var ok = await dishService.SaveAsync();
+        Console.WriteLine($"SaveAsync returned: {ok}");
+        
+        // Запускаємо приклади примітивів синхронізації
+        SyncExamples.RunAll();
+    }
 
-        // Update
-        salad1.Price = 135;
-        saladService.Update(salad1);
-
-        Console.WriteLine("\nПісля оновлення:");
-        foreach (var s in saladService.ReadAll())
-        {
-            Console.WriteLine(s.GetInfo());
-        }
-
-        // Remove
-        saladService.Remove(salad2);
-
-        Console.WriteLine("\nПісля видалення:");
-        foreach (var s in saladService.ReadAll())
-        {
-            Console.WriteLine(s.GetInfo());
-        }
+    static bool IsNumericType(Type type)
+    {
+        Type t = Nullable.GetUnderlyingType(type) ?? type;
+        return t == typeof(byte) || t == typeof(sbyte) || t == typeof(short) || t == typeof(ushort)
+            || t == typeof(int) || t == typeof(uint) || t == typeof(long) || t == typeof(ulong)
+            || t == typeof(float) || t == typeof(double) || t == typeof(decimal);
     }
 }
