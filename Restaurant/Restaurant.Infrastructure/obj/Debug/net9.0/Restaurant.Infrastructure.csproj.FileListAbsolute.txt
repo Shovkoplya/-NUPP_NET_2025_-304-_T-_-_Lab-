@@ -1,0 +1,14 @@
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/bin/Debug/net9.0/Restaurant.Infrastructure.deps.json
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/bin/Debug/net9.0/Restaurant.Infrastructure.runtimeconfig.json
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/bin/Debug/net9.0/Restaurant.Infrastructure.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/bin/Debug/net9.0/Restaurant.Infrastructure.pdb
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/obj/Debug/net9.0/Restaurant.Infrastructure.csproj.AssemblyReference.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/obj/Debug/net9.0/Restaurant.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/obj/Debug/net9.0/Restaurant.Infrastructure.AssemblyInfoInputs.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/obj/Debug/net9.0/Restaurant.Infrastructure.AssemblyInfo.cs
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/obj/Debug/net9.0/Restaurant.Infrastructure.csproj.CoreCompileInputs.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/obj/Debug/net9.0/Restaurant.Infrastructure.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/obj/Debug/net9.0/refint/Restaurant.Infrastructure.dll
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/obj/Debug/net9.0/Restaurant.Infrastructure.pdb
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/obj/Debug/net9.0/Restaurant.Infrastructure.genruntimeconfig.cache
+/home/fant/VsCode/dotnet_labs/vlad/lab_3/Restaurant/Restaurant.Infrastructure/obj/Debug/net9.0/ref/Restaurant.Infrastructure.dll
